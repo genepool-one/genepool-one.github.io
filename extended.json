@@ -1,6 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://genepool-one.github.io/genepool64by64.png",
+		"url_png_icon_64x64": "https://genepool-one.github.io/gene64.png",
+		"url_png_logo": "https://genepool-one.github.io/gene512.png",
 		"social": {
 			"telegram_handle": "genepool_one"
 		}
